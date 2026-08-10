@@ -53,7 +53,7 @@
   - AWG 1.0
   - AWG 1.5
   - AWG 2.0 (+ детект уровня обфускации)
-
+  - AWG 3.0 (HeaderProtectionKey)
 - 🧠 Анализ параметров
   
   - Junk packets ("Jc", "Jmin", "Jmax")
